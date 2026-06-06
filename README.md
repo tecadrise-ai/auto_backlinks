@@ -1,5 +1,7 @@
 # auto_backlinks
 
+Let your AI agent place 250 free backlinks for your website!!
+
 `auto_backlinks` is a simple agent skill for placing directory backlinks for one target URL.
 
 The workflow is intentionally small:
@@ -16,7 +18,7 @@ The workflow is intentionally small:
 
 - `SKILL.md` contains the agent instructions.
 - `config.example` shows the required target URL and email inbox settings.
-- `backlinks.csv` contains example directory targets.
+- `backlinks.csv` contains 250 free backlink directory targets.
 - `about_us.csv` contains example about-us text variations for the one target URL.
 
 ## Setup

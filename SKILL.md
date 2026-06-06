@@ -1,5 +1,7 @@
 # Backlink Placement Agent
 
+Let your AI agent place 250 free backlinks for your website!!
+
 ## Goal
 
 Place one honest directory or profile backlink for one target URL per run.
