@@ -1,6 +1,4 @@
-# auto_backlinks
-
-Let your AI agent place 250 free backlinks for your website!!
+# auto_backlinks - Let your AI agent place 250 free backlinks for your website!!
 
 `auto_backlinks` is a simple agent skill for placing directory backlinks for one target URL.
 
