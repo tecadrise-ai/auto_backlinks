@@ -1,0 +1,9 @@
+.env
+*.env
+config.local
+config.private
+credentials*
+secrets*
+__pycache__/
+.DS_Store
+Thumbs.db

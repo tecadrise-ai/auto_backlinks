@@ -1,0 +1,19 @@
+TARGET_URL=https://your-business.example/
+BUSINESS_NAME=Your Business Name
+ABOUT_US_TEXT=about_us.csv
+SIGNUP_NAME=Your Name
+
+EMAIL_LOGIN=backlinks@example.com
+EMAIL_PASSWORD=replace-with-your-email-password
+EMAIL_ACCESS_METHOD=imap
+
+EMAIL_IMAP_HOST=imap.example.com
+EMAIL_IMAP_PORT=993
+EMAIL_IMAP_SSL=true
+
+EMAIL_POP3_HOST=pop.example.com
+EMAIL_POP3_PORT=995
+EMAIL_POP3_SSL=true
+
+EMAIL_SMTP_HOST=smtp.example.com
+EMAIL_SMTP_PORT=587
